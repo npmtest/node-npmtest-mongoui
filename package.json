@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [mongoui (v4.0.5)](https://github.com/azat-co/mongoui#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mongoui.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongoui) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongoui.svg)](https://travis-ci.org/npmtest/node-npmtest-mongoui)",
+    "description": "#### basic test coverage for  [mongoui (v4.0.6)](https://github.com/azat-co/mongoui#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mongoui.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongoui) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongoui.svg)](https://travis-ci.org/npmtest/node-npmtest-mongoui)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "mongoui": "*",
